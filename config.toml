@@ -1,0 +1,4 @@
+baseURL = "https://poemkids-dodotree.vercel.app"
+languageCode = "en-us"
+title = "Kids Poems Funny in Life"
+theme = "hugo-theme-minos"
